@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science 
 - 💞️ I’m looking to collaborate on Full Stack Projects
 - 📫 How to reach me Facebook Telegram 
-- 😄 Pronouns: V A T H 
+- 😄 Pronouns: Khmer
 - ⚡ Fun fact: Nth
 
 <!---
